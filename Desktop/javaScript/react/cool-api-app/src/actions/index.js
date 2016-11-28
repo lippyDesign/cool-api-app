@@ -1,6 +1,4 @@
 import axios from 'axios';
-// var Twit = require('twit')
-// console.log(Twit)
 
 const YOUTUBE_ROOT_URL = 'https://www.googleapis.com/youtube/v3/videos';
 const YOUTUBE_API_KEY = 'AIzaSyAtp9yitr1g4hPZADmBc2hrhrcEcLrfOS4';
